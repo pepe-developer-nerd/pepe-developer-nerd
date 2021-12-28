@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pepe-developer-nerd
+- 👋 Hi, I’m Peter alias @pepe-developer-nerd
 - 👀 I’m interested in php, js, swift
 - 🌱 I’m currently learning swift
 - 📫 How to reach me hello@petervanderven.com
