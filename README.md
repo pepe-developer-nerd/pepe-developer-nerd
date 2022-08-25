@@ -6,8 +6,8 @@ Fullstack developer
 
 *   🌍  I'm based in Bremen Germany
 *   🖥️  See my portfolio at [My Website](http://petervanderven.com)
-*   ✉️  You can contact me at [kontakt@petervanderven.com](mailto:kontakt@petervanderven.com)
-*   🚀  I'm currently working on [OAT](http://oat.petervanderven.com)
+*   ✉️  You can contact me at [contact@petervanderven.com](mailto:kontakt@petervanderven.com)
+*   🚀  I'm currently working on [Brefinest](https://brefinest.com)
 *   🧠  I'm learning SQL for a new project.
 *   🤝  I'm open to collaborating on Interesting projects
 *   ⚡  I’m secretly Green Arrow... but don’t tell anyone
